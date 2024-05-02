@@ -31,7 +31,7 @@ const Auth = () => {
   };
   return (
     <>
-      <div className="flex w-[60%] m-auto">
+      <div className="flex justify-between w-[80%] m-auto">
         <img src={rect} alt="ICON" className="h-[600px] w-[600px]" />
         <div className="p-[20px]">
           <div className="w-[400px]">
