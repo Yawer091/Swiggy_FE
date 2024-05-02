@@ -31,8 +31,8 @@ const Auth = () => {
   };
   return (
     <>
-      <div className="flex w-[80%] m-auto">
-        <img src={rect} alt="ICON" className="h-[680px] w-[784px]" />
+      <div className="flex w-[60%] m-auto">
+        <img src={rect} alt="ICON" className="h-[600px] w-[600px]" />
         <div className="p-[20px]">
           <div className="w-[400px]">
             <div className=" flex my-[30px] ">
